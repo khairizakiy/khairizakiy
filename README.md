@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khairizakiy/khairizakiy/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42YWl5N2lja2ljYjVoanh0azh1b2h4NWplMWFuZDZkY3hpcjdpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzvlLpSulVBn7ZIucS/giphy.gif"  />
 </div>
