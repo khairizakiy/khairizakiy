@@ -43,19 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
   <img height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42YWl5N2lja2ljYjVoanh0azh1b2h4NWplMWFuZDZkY3hpcjdpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzvlLpSulVBn7ZIucS/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
