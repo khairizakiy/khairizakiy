@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khairizakiy/khairizakiy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khairizakiy/khairizakiy/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
