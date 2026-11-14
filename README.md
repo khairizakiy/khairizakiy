@@ -4,4 +4,4 @@
 ![](https://streak-stats.demolab.com/?user=khairizakiy&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=khairizakiy&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
-## visit my latest project⬇️
+## shoutout to my latest project⬇️
