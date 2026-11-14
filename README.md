@@ -3,7 +3,6 @@ i'm khairi, currently learning python and c++
 i'm enthusiast with quant and formula 1
 i like :
 1. money
-2. and larp👀
 
 i hope soon i'll get accepted in quant firm (i wanted it so baddd)
 
@@ -37,5 +36,9 @@ i hope soon i'll get accepted in quant firm (i wanted it so baddd)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⠅⠝⠝⠝⢿⢿⢟⠝⢵⠥⠄⠝⠕⢕⢝⢽⢽⠁⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠿⢿⢿⢽⣽⢿⣿⣿⣿⣿⣷⣵⣿⣿⣿⣽⣵⣵⣽⣷⣵⠵⠽⠿⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠁⠉⠉⠉⠉⠉⠉⠉⠉⠁⠁⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-shotout to my latest project⬇️
+
+
+
+
+shoutout to my latest project⬇️
 ```
