@@ -1,6 +1,6 @@
 ```text
 i'm khairi, currently learning python and c++
-i'm enthusiast with quant and formula 1
+enthusiast with quant and formula 1
 i like :
 1. money
 
